@@ -34,3 +34,10 @@ typescript 练习实践
 - **类型守卫和类型保护**。
 - **映射类型、条件类型和类型查询**。
 - **装饰器**：类装饰器、方法装饰器、访问器装饰器、属性装饰器、参数装饰器。
+
+## 资料
+TypeScript 使用指南手册：https://www.patrickzhong.com/TypeScript/PREFACE.html
+高质量的英文入门教学：https://www.patrickzhong.com/TypeScript/PREFACE.html
+https://jkchao.github.io/typescript-book-chinese/#why
+进阶：
+《深入理解 TypeScript》 https://juejin.cn/post/6844903687563771918

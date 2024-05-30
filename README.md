@@ -41,3 +41,7 @@ TypeScript 使用指南手册：https://www.patrickzhong.com/TypeScript/PREFACE.
 https://jkchao.github.io/typescript-book-chinese/#why
 进阶：
 《深入理解 TypeScript》 https://juejin.cn/post/6844903687563771918
+
+## 记录
+/doc/record 记录每天内容
+/doc/note   记录笔记内容

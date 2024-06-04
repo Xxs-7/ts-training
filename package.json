@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "dev:server": "tsx watch src/day1"
+    "dev": "tsx watch src/day4"
   },
   "dependencies": {},
   "devDependencies": {
